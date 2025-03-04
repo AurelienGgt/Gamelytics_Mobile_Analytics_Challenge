@@ -1,4 +1,4 @@
-# Gamelytics: Mobile Analytics Challenge \U0001F3AE\U0001F4CA
+# Gamelytics: Mobile Analytics Challenge🎮📊
 
 [**Link of Kaggle Project**](https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge/code)
 
@@ -16,34 +16,34 @@ Welcome to the **Gamelytics: Mobile Analytics Challenge**, a real-world-inspired
 
 ### **Task 1: Retention Analysis**
 
-- **Objective:** Calculate the daily retention rate of players, starting from their registration date.
-- **Data Sources:**
+- 🔍**Objective:** Calculate the daily retention rate of players, starting from their registration date.
+- 📄**Data Sources:**
   - `reg_data.csv`: Contains user registration timestamps (`reg_ts`) and unique user IDs (`uid`).
   - `auth_data.csv`: Contains user login timestamps (`auth_ts`) and unique user IDs (`uid`).
-- **Challenge:** Develop a Python function to calculate retention, allowing you to test its performance on both the complete dataset and smaller samples.
+- 💡**Challenge:** Develop a Python function to calculate retention, allowing you to test its performance on both the complete dataset and smaller samples.
 
 ---
 
 ### **Task 2: A/B Testing for Promotional Offers**
 
-- **Objective:** Identify the best-performing promotional offer set by comparing key revenue metrics.
-- **Context:**
+- 🔍**Objective:** Identify the best-performing promotional offer set by comparing key revenue metrics.
+- 💰**Context:**
   - The test group has a **5% higher ARPU** than the control group.
   - In the control group, **1928 users** out of **202,103** are paying customers.
   - In the test group, **1805 users** out of **202,667** are paying customers.
-- **Data Sources:**
+- 📄**Data Sources:**
   - `ab_test.csv`: Includes `user_id`, `revenue`, and `testgroup` columns.
-- **Challenge:** Decide which offer set performs best, and determine the appropriate metrics for a robust evaluation.
+- 💡**Challenge:** Decide which offer set performs best, and determine the appropriate metrics for a robust evaluation.
 
 ---
 
 ### **Task 3: Event Performance Evaluation in "Plants & Gardens"**
 
-- **Objective:** Develop metrics to assess the success of a time-limited in-game event where players can earn unique rewards.
-- **Context:**
+- 🔍**Objective:** Develop metrics to assess the success of a time-limited in-game event where players can earn unique rewards.
+- 💰**Context:**
   - Players complete levels to win exclusive items, bonuses, or coins.
   - In a variation, players may be penalized (sent back levels) after failed attempts.
-- **Challenge:** Define how metrics should change under the penalty variation and identify KPIs for evaluating event success.
+- 💡**Challenge:** Define how metrics should change under the penalty variation and identify KPIs for evaluating event success.
 
 ---
 
