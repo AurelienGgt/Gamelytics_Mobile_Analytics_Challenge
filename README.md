@@ -6,6 +6,17 @@ Unlock key insights into player behavior, optimize game metrics, and make data-d
 
 ---
 
+
+```
+Gamelytics: Mobile Analytics Challenge-project/
+│
+├── notebooks/         # Jupyter notebooks for data exploration and analysis
+├── scripts/           # Python scripts for simulation, modeling, and data processing
+├── assets/            # Images, icons, and other media assets
+├── data/              # Datasets related to Warhammer 40K lore, battles, and factions
+└── README.md          # Project documentation
+```
+
 ## **Description**
 
 Welcome to the **Gamelytics: Mobile Analytics Challenge**, a real-world-inspired dataset designed for data enthusiasts eager to dive deep into mobile game analytics. This dataset challenges you to analyze player behavior, evaluate A/B test results, and develop metrics for assessing game event performance.
@@ -85,4 +96,4 @@ The provided data is split into three files, each detailing a specific aspect of
 - **Skill Building:** Perfect for those honing skills in retention analysis, A/B testing, and event-based performance evaluation.
 - **Community Driven:** Built to inspire collaboration and innovation in the data analytics community.
 
-Whether you’re a beginner or an expert, this dataset offers an engaging challenge to sharpen your analytical skills and drive actionable insights. **Happy analyzing!** \U0001F389\U0001F4C8
+Whether you’re a beginner or an expert, this dataset offers an engaging challenge to sharpen your analytical skills and drive actionable insights. **Happy analyzing!** 
